@@ -1,0 +1,32 @@
+/*Import Roboto from Google*/
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto&family=Special+Elite&display=swap');
+/* Applying the Roboto font to the entire body of your HTML */
+body {
+    font-family: 'Special Elite', cursive;
+}
+
+.center-off-black {
+    color: #242424;
+    text-align: center;
+}
+
+.horizontally-aligned {
+    display: flex;
+    gap: 0.5em;
+    align-items: center;
+}
+
+.title-style {
+    font-size: 1.5em;
+    margin-bottom: 0 !important;
+}
+
+.d-flex-post-box {
+    display: flex;
+    align-items: center;
+}
+
+.post-little-text {
+    margin-left: 1em;
+    margin-right:1em;
+}
